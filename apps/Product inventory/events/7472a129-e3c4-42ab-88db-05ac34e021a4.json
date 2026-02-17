@@ -1,0 +1,17 @@
+{
+  "id": "7472a129-e3c4-42ab-88db-05ac34e021a4",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "queryId": "e62d531c-8474-4597-8edf-2e1b913e8b89",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "removeProduct",
+    "parameters": {}
+  },
+  "sourceId": "7b1ec008-9d46-43e0-9fd7-50179915eb5e",
+  "target": "component",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "16a9dabb-1c62-4eae-824c-07cb30b7e79c",
+  "name": "onClick",
+  "index": 0,
+  "event": {
+    "modal": "bf6aabd9-0d20-4782-91a3-09250606552a",
+    "eventId": "onClick",
+    "message": "Hello world!",
+    "actionId": "close-modal",
+    "alertType": "info"
+  },
+  "sourceId": "3ec4b3a2-93fe-4ddd-a7f1-a5a05849eca5",
+  "target": "component",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

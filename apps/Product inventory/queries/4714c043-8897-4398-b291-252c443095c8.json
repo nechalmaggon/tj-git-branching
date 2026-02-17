@@ -1,0 +1,23 @@
+{
+  "id": "4714c043-8897-4398-b291-252c443095c8",
+  "name": "getProducts",
+  "options": {
+    "mode": "sql",
+    "transformationLanguage": "javascript",
+    "enableTransformation": false,
+    "query": "{{`SELECT *\nFROM products\nWHERE\n    is_active = true\n    AND (\n        product_name ILIKE '%${components.table1.searchText}%' OR\n        status ILIKE '%${components.table1.searchText}%' OR\n        description ILIKE '%${components.table1.searchText}%' OR\n        category ILIKE '%${components.table1.searchText}%'\n    )\nORDER BY id DESC;`}}",
+    "events": [
+      {
+        "eventId": "onDataQuerySuccess",
+        "actionId": "run-query",
+        "message": "Hello world!",
+        "alertType": "info",
+        "queryName": "getProductStats",
+        "parameters": {}
+      }
+    ],
+    "runOnPageLoad": false
+  },
+  "dataSourceId": "59e7fd28-3f2c-43d0-8659-a499d2647d71",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

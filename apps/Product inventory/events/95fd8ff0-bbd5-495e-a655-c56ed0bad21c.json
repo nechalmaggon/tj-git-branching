@@ -1,0 +1,17 @@
+{
+  "id": "95fd8ff0-bbd5-495e-a655-c56ed0bad21c",
+  "name": "onSearch",
+  "index": 0,
+  "event": {
+    "eventId": "onSearch",
+    "message": "Hello World!",
+    "queryId": "4714c043-8897-4398-b291-252c443095c8",
+    "actionId": "run-query",
+    "alertType": "info",
+    "queryName": "getProducts",
+    "parameters": {}
+  },
+  "sourceId": "9faf34f9-d8ff-4a8e-b78c-7ba52a268957",
+  "target": "component",
+  "appVersionId": "9f5844c9-f2f1-4292-94f3-25805a6fddd7"
+}

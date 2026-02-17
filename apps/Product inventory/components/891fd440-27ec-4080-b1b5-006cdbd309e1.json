@@ -1,0 +1,53 @@
+{
+  "id": "891fd440-27ec-4080-b1b5-006cdbd309e1",
+  "name": "text34",
+  "type": "Text",
+  "pageId": "bc4f7140-2784-468b-b2d2-bbe555005340",
+  "parent": "605a4989-00c8-4a6b-8ee3-401e61a419fe",
+  "properties": {
+    "text": {
+      "value": "This application connects to a shared sample data source, so data may vary due to real-time updates. It's reset daily for consistency but is intended for user exploration, not production use."
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#9b9b9bff"
+    },
+    "textSize": {
+      "value": "14"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "172255d1-a1a1-48b8-834d-3aa11695ed3b",
+      "type": "desktop",
+      "top": 70,
+      "left": 2,
+      "width": 27,
+      "height": 50,
+      "componentId": "891fd440-27ec-4080-b1b5-006cdbd309e1",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "7bf55c99-45e1-489b-a86c-c6f91c325bf8",
+      "type": "mobile",
+      "top": 80,
+      "left": 2,
+      "width": 6,
+      "height": 40,
+      "componentId": "891fd440-27ec-4080-b1b5-006cdbd309e1",
+      "dimensionUnit": "count"
+    }
+  ]
+}

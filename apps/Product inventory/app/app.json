@@ -1,0 +1,17 @@
+{
+  "id": "b70939c1-9cb2-437b-8785-18aee984f024",
+  "name": "Product inventory",
+  "type": "front-end",
+  "slug": "b70939c1-9cb2-437b-8785-18aee984f024",
+  "isPublic": false,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-17T09:27:53.024Z",
+  "organizationId": "d495dfee-6c38-4f0b-84b4-f15970b1acff",
+  "userId": "22e1f3bb-e1b2-4ded-a794-abb2e4046531",
+  "icon": "layers",
+  "tooljetVersion": "3.20.93-ee-lts"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1a6cbdf9-dc15-4666-b3a3-249327c2fa84",
+  "name": "text35",
+  "type": "Text",
+  "pageId": "bc4f7140-2784-468b-b2d2-bbe555005340",
+  "parent": null,
+  "properties": {
+    "text": {
+      "value": "Inventory Management Dashboard"
+    }
+  },
+  "general": {},
+  "styles": {
+    "textColor": {
+      "value": "#3e63ddff"
+    },
+    "textSize": {
+      "value": "20"
+    },
+    "textAlign": {
+      "value": "right"
+    },
+    "fontWeight": {
+      "value": "bold"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "13cf848f-08cc-4030-a087-53f9fac76367",
+      "type": "desktop",
+      "top": 30,
+      "left": 21,
+      "width": 16,
+      "height": 50,
+      "componentId": "1a6cbdf9-dc15-4666-b3a3-249327c2fa84",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "39d5a5c3-4904-462f-937a-30079134d374",
+      "type": "mobile",
+      "top": 140,
+      "left": 15,
+      "width": 6,
+      "height": 40,
+      "componentId": "1a6cbdf9-dc15-4666-b3a3-249327c2fa84",
+      "dimensionUnit": "count"
+    }
+  ]
+}

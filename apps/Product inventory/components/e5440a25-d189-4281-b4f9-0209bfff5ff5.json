@@ -1,0 +1,56 @@
+{
+  "id": "e5440a25-d189-4281-b4f9-0209bfff5ff5",
+  "name": "button11",
+  "type": "Button",
+  "pageId": "bc4f7140-2784-468b-b2d2-bbe555005340",
+  "parent": "605a4989-00c8-4a6b-8ee3-401e61a419fe",
+  "properties": {
+    "text": {
+      "value": "Add new product"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "#3e63ddff",
+      "fxActive": false
+    },
+    "textColor": {
+      "value": "#ffffffff",
+      "fxActive": false
+    },
+    "loaderColor": {
+      "value": "#ffffffff",
+      "fxActive": false
+    },
+    "borderRadius": {
+      "value": "{{5}}"
+    },
+    "borderColor": {
+      "value": "#3e63ddff",
+      "fxActive": false
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "72dc3a6e-7d52-4cac-9522-bb091e3e4595",
+      "type": "desktop",
+      "top": 30,
+      "left": 33,
+      "width": 8,
+      "height": 40,
+      "componentId": "e5440a25-d189-4281-b4f9-0209bfff5ff5",
+      "dimensionUnit": "count"
+    }
+  ]
+}

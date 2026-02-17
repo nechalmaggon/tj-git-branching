@@ -1,0 +1,46 @@
+{
+  "id": "4075b63b-37a0-46dc-a392-e91cad5c1d4d",
+  "name": "image1",
+  "type": "Image",
+  "pageId": "bc4f7140-2784-468b-b2d2-bbe555005340",
+  "parent": null,
+  "properties": {
+    "source": {
+      "value": "https://logo-badges.tooljet.com/Fictional-company-logo.png"
+    }
+  },
+  "general": {},
+  "styles": {},
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "68c7b57a-c6ea-40b5-8bc7-d99081150039",
+      "type": "desktop",
+      "top": 30,
+      "left": 4,
+      "width": 6,
+      "height": 50,
+      "componentId": "4075b63b-37a0-46dc-a392-e91cad5c1d4d",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "401afd96-20e8-414c-8936-311e26184142",
+      "type": "mobile",
+      "top": 20,
+      "left": 11,
+      "width": 3,
+      "height": 100,
+      "componentId": "4075b63b-37a0-46dc-a392-e91cad5c1d4d",
+      "dimensionUnit": "count"
+    }
+  ]
+}

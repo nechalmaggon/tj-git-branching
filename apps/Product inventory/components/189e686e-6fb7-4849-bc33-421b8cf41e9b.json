@@ -1,0 +1,65 @@
+{
+  "id": "189e686e-6fb7-4849-bc33-421b8cf41e9b",
+  "name": "text58",
+  "type": "Text",
+  "pageId": "bc4f7140-2784-468b-b2d2-bbe555005340",
+  "parent": "2ed20a05-468b-419f-b69f-6e2e1bded119",
+  "properties": {
+    "text": {
+      "value": "Out of stock"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": ""
+    },
+    "textColor": {
+      "value": "#e5484dff",
+      "fxActive": false
+    },
+    "textSize": {
+      "value": "{{12}}"
+    },
+    "textAlign": {
+      "value": "center"
+    },
+    "lineHeight": {
+      "value": 1.5
+    },
+    "textIndent": {
+      "value": 0
+    },
+    "letterSpacing": {
+      "value": 0
+    },
+    "wordSpacing": {
+      "value": 0
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "generalStyles": {},
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "4ec9c2d9-ef53-49f8-b8c7-dfd19180a8b2",
+      "type": "desktop",
+      "top": 10,
+      "left": 1,
+      "width": 41,
+      "height": 30,
+      "componentId": "189e686e-6fb7-4849-bc33-421b8cf41e9b",
+      "dimensionUnit": "count"
+    }
+  ]
+}

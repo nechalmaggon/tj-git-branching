@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Product inventory",
+  "appCoRelationId": "b70939c1-9cb2-437b-8785-18aee984f024",
+  "gitAppId": "d7e6ad46-f0a2-4ac7-9068-22dcdafa9905",
+  "branchName": "shubham-1",
+  "gitVersionName": "shubham-1",
+  "gitVersionId": "18c1c23b-7dce-47c6-be4a-bcfd2c2eb5c0",
+  "tooljetVersion": "3.20.93-ee-lts",
+  "createdAt": "2026-02-17T11:45:34.524Z",
+  "updatedAt": "2026-02-17T11:45:34.524Z"
+}
