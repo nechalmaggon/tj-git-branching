@@ -1,0 +1,25 @@
+{
+  "id": "1620c8a9-9ab1-49b0-b201-6de307575835",
+  "name": "Subscriptions",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "724fa9b2-158f-4b00-b3ec-9c3c3a62fde2",
+  "versionType": "branch",
+  "appId": "7a6dbd3d-6d04-452b-b2c9-d7f23d751d45",
+  "currentEnvironmentId": "55700f65-e2b7-4d7d-8f37-26ab066fb891",
+  "promotedFrom": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null
+}
