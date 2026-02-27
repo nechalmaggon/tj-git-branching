@@ -1,0 +1,17 @@
+{
+  "id": "7a6dbd3d-6d04-452b-b2c9-d7f23d751d45",
+  "name": "Manage subscriptions",
+  "type": "front-end",
+  "slug": "7a6dbd3d-6d04-452b-b2c9-d7f23d751d45",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-02-27T03:12:03.887Z",
+  "organizationId": "5dbb9e41-ceb8-4136-bc7a-d5677b44a2d6",
+  "userId": "ff2d539d-dfaa-4cad-b984-9d6d70d1d3fd",
+  "icon": "home",
+  "tooljetVersion": "3.20.101-ee-lts"
+}
