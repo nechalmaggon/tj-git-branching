@@ -1,0 +1,25 @@
+{
+  "id": "96552aef-1aaa-4b8b-982c-9af991438e09",
+  "name": "nechal-expenses",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "569a28ec-fae5-4bce-9183-c11c0c861c63",
+  "versionType": "branch",
+  "appId": "c78d1937-4c34-4800-b578-75b18f865d77",
+  "currentEnvironmentId": "67fe3031-02ed-443c-8f2e-04d3a55663aa",
+  "promotedFrom": null,
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null
+}
