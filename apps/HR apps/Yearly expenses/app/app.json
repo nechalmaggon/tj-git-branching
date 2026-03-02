@@ -1,0 +1,17 @@
+{
+  "id": "c78d1937-4c34-4800-b578-75b18f865d77",
+  "name": "Yearly expenses",
+  "type": "front-end",
+  "slug": "c78d1937-4c34-4800-b578-75b18f865d77",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-02T06:59:53.957Z",
+  "organizationId": "aa340eca-1250-44e4-bd30-89d7e2a3ff4e",
+  "userId": "5fe0876f-7c8b-4be4-99a7-cd2357b3d53c",
+  "icon": "layers",
+  "tooljetVersion": "3.21.0-beta-ee"
+}
