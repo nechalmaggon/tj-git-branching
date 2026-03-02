@@ -1,6 +1,6 @@
 {
   "id": "96552aef-1aaa-4b8b-982c-9af991438e09",
-  "name": "nechal-expenses",
+  "name": "graph",
   "definition": null,
   "globalSettings": {
     "appInMaintenance": false,
@@ -11,7 +11,14 @@
     "backgroundFxQuery": "",
     "appMode": "light"
   },
-  "pageSettings": null,
+  "pageSettings": {
+    "properties": {
+      "disableMenu": {
+        "value": "{{false}}",
+        "fxActive": false
+      }
+    }
+  },
   "showViewerNavigation": true,
   "homePageId": "569a28ec-fae5-4bce-9183-c11c0c861c63",
   "versionType": "branch",
