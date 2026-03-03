@@ -1,0 +1,96 @@
+{
+  "id": "ff536392-bbdf-423c-a5a9-c86a7346503c",
+  "name": "chart1",
+  "type": "Chart",
+  "pageId": "8db7a501-95ea-425e-a684-49a746acf2ff",
+  "parent": null,
+  "properties": {
+    "title": {
+      "value": "Tax breakdown"
+    },
+    "markerColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "showAxes": {
+      "value": "{{true}}"
+    },
+    "showGridLines": {
+      "value": "{{true}}"
+    },
+    "plotFromJson": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "barmode": {
+      "value": "group"
+    },
+    "jsonDescription": {
+      "value": "{\n              \"data\": [\n                  {\n                      \"x\": [\n                          \"Jan\",\n                          \"Feb\",\n                          \"Mar\"\n                      ],\n                      \"y\": [\n                          100,\n                          80,\n                          40\n                      ],\n                      \"type\": \"bar\"\n                  }\n              ]\n          }"
+    },
+    "type": {
+      "value": "pie"
+    },
+    "data": {
+      "value": "[\n    { \"x\": \"Jan\", \"y\": 100},\n    { \"x\": \"Feb\", \"y\": 80},\n    { \"x\": \"Mar\", \"y\": 40}\n  ]"
+    }
+  },
+  "general": {},
+  "styles": {
+    "backgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "padding": {
+      "value": "50"
+    },
+    "borderRadius": {
+      "value": "{{6}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "borderColor": {
+      "value": "var(--cc-default-border)"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {},
+  "layouts": [
+    {
+      "id": "1ca28525-e701-4994-a00c-0c501d0109bb",
+      "type": "desktop",
+      "top": 330,
+      "left": 1,
+      "width": 11,
+      "height": 520,
+      "componentId": "ff536392-bbdf-423c-a5a9-c86a7346503c",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "25f28986-b7b1-42a6-b078-445065259d16",
+      "type": "mobile",
+      "top": 450,
+      "left": 3,
+      "width": 20,
+      "height": 400,
+      "componentId": "ff536392-bbdf-423c-a5a9-c86a7346503c",
+      "dimensionUnit": "count"
+    }
+  ]
+}
