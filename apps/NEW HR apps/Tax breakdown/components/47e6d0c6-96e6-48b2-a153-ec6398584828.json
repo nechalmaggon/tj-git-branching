@@ -45,11 +45,7 @@
       "value": "0px 0px 0px 0px #00000040"
     }
   },
-  "generalStyles": {
-    "boxShadow": {
-      "value": "0px 0px 0px 0px #00000040"
-    }
-  },
+  "generalStyles": {},
   "displayPreferences": {
     "showOnDesktop": {
       "value": "{{true}}"
@@ -63,10 +59,10 @@
     {
       "id": "080e2b70-124c-4d35-ba2f-91871be81d94",
       "type": "desktop",
-      "top": 330,
-      "left": 27,
+      "top": 320,
+      "left": 24,
       "width": 13,
-      "height": 520,
+      "height": 530,
       "componentId": "47e6d0c6-96e6-48b2-a153-ec6398584828",
       "dimensionUnit": "count"
     },
