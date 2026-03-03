@@ -1,0 +1,185 @@
+{
+  "id": "f0a54366-e976-4a5f-88b6-1245c143f514",
+  "name": "dropdown1",
+  "type": "DropdownV2",
+  "pageId": "8db7a501-95ea-425e-a684-49a746acf2ff",
+  "parent": "47e6d0c6-96e6-48b2-a153-ec6398584828",
+  "properties": {
+    "advanced": {
+      "value": "{{false}}"
+    },
+    "schema": {
+      "value": "{{[\t{label: 'option1',value: 1,disable: false,visible: true,default: true},{label: 'option2',value: 2,disable: false,visible: true},{label: 'option3',value: 3,disable: false,visible: true}\t]}}"
+    },
+    "options": {
+      "value": [
+        {
+          "label": "option1",
+          "value": "1",
+          "disable": {
+            "value": "{{false}}"
+          },
+          "visible": {
+            "value": "{{true}}"
+          },
+          "default": {
+            "value": "{{false}}"
+          }
+        },
+        {
+          "label": "option2",
+          "value": "2",
+          "disable": {
+            "value": "{{false}}"
+          },
+          "visible": {
+            "value": "{{true}}"
+          },
+          "default": {
+            "value": "{{true}}"
+          }
+        },
+        {
+          "label": "option3",
+          "value": "3",
+          "disable": {
+            "value": "{{false}}"
+          },
+          "visible": {
+            "value": "{{true}}"
+          },
+          "default": {
+            "value": "{{false}}"
+          }
+        }
+      ]
+    },
+    "label": {
+      "value": "Select"
+    },
+    "optionsLoadingState": {
+      "value": "{{false}}"
+    },
+    "sort": {
+      "value": "none"
+    },
+    "placeholder": {
+      "value": "Select an option"
+    },
+    "showClearBtn": {
+      "value": "{{true}}"
+    },
+    "showSearchInput": {
+      "value": "{{true}}"
+    },
+    "visibility": {
+      "value": "{{true}}"
+    },
+    "disabledState": {
+      "value": "{{false}}"
+    },
+    "loadingState": {
+      "value": "{{false}}"
+    },
+    "tooltip": {
+      "value": ""
+    }
+  },
+  "general": {},
+  "styles": {
+    "labelColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "labelWidth": {
+      "value": "33"
+    },
+    "auto": {
+      "value": "{{true}}"
+    },
+    "fieldBorderRadius": {
+      "value": "6"
+    },
+    "selectedTextColor": {
+      "value": "var(--cc-primary-text)"
+    },
+    "fieldBorderColor": {
+      "value": "var(--cc-default-border)"
+    },
+    "errTextColor": {
+      "value": "var(--cc-error-systemStatus)"
+    },
+    "fieldBackgroundColor": {
+      "value": "var(--cc-surface1-surface)"
+    },
+    "direction": {
+      "value": "left"
+    },
+    "alignment": {
+      "value": "side"
+    },
+    "padding": {
+      "value": "default"
+    },
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    },
+    "icon": {
+      "value": "IconHome2"
+    },
+    "iconVisibility": {
+      "value": false
+    },
+    "iconColor": {
+      "value": "var(--cc-default-icon)"
+    },
+    "accentColor": {
+      "value": "var(--cc-primary-brand)"
+    },
+    "widthType": {
+      "value": "ofComponent"
+    }
+  },
+  "generalStyles": {
+    "boxShadow": {
+      "value": "0px 0px 0px 0px #00000040"
+    }
+  },
+  "displayPreferences": {
+    "showOnDesktop": {
+      "value": "{{true}}"
+    },
+    "showOnMobile": {
+      "value": "{{false}}"
+    }
+  },
+  "validation": {
+    "mandatory": {
+      "value": "{{false}}"
+    },
+    "customRule": {
+      "value": null
+    }
+  },
+  "layouts": [
+    {
+      "id": "6b9efdc6-3460-4b5b-89b3-cc8649144d0b",
+      "type": "desktop",
+      "top": 80,
+      "left": 1,
+      "width": 41,
+      "height": 40,
+      "componentId": "f0a54366-e976-4a5f-88b6-1245c143f514",
+      "dimensionUnit": "count"
+    },
+    {
+      "id": "73939c7c-bf83-4dd1-9052-7a62a00c81a0",
+      "type": "mobile",
+      "top": 30,
+      "left": 1,
+      "width": 34,
+      "height": 40,
+      "componentId": "f0a54366-e976-4a5f-88b6-1245c143f514",
+      "dimensionUnit": "count"
+    }
+  ]
+}
