@@ -1,0 +1,17 @@
+{
+  "id": "5295ec89-c7af-41e9-8143-9d827660bb94",
+  "name": "Tax breakdown",
+  "type": "front-end",
+  "slug": "5295ec89-c7af-41e9-8143-9d827660bb94",
+  "isPublic": null,
+  "isMaintenanceOn": false,
+  "__loaded": true,
+  "aiGenerationMetadata": null,
+  "appBuilderMode": "visual",
+  "currentVersionId": null,
+  "createdAt": "2026-03-03T06:32:30.185Z",
+  "organizationId": "aa340eca-1250-44e4-bd30-89d7e2a3ff4e",
+  "userId": "5fe0876f-7c8b-4be4-99a7-cd2357b3d53c",
+  "icon": "grid",
+  "tooljetVersion": "3.21.1-beta-ee"
+}
