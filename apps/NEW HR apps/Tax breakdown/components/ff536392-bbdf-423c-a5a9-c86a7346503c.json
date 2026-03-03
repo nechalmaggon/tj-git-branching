@@ -75,10 +75,10 @@
     {
       "id": "1ca28525-e701-4994-a00c-0c501d0109bb",
       "type": "desktop",
-      "top": 330,
+      "top": 320,
       "left": 1,
       "width": 11,
-      "height": 520,
+      "height": 530,
       "componentId": "ff536392-bbdf-423c-a5a9-c86a7346503c",
       "dimensionUnit": "count"
     },
